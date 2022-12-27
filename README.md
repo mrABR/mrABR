@@ -7,6 +7,7 @@
 Until then, you can reach me at my most active socials:
 - via Twitter at [twitter.com/ABROfficialcsgo](https://twitter.com/ABROfficialcsgo) 
 - mailing me at [pedromabrunhosa91@gmail.com](mailto:pedromabrunhosa91@gmail.com)
+- via LinkedIn at [https://www.linkedin.com/in/pedroabrunhosa](https://www.linkedin.com/in/pedroabrunhosa) 
 
 <!---
 mrABR/mrABR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
