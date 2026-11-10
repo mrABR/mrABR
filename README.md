@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Pedro Abrunhosa @mrABR
-- 💞️ I’m looking to collaborate on anything that pops up, I like exploring new territories
-- 📫 My webpage is currently WIP [pedro-abrunhosa.dev](pedro-abrunhosa.dev), until then, you can reach me at my most active socials:
-  - via Twitter at [twitter.com/ABROfficialcsgo](https://twitter.com/ABROfficialcsgo)
-  - via LinkedIn at [linkedin.com/in/pedroabrunhosa](https://www.linkedin.com/in/pedroabrunhosa) 
-  - mailing me at [me@pedro-abrunhosa.dev](mailto:me@pedro-abrunhosa.dev)
+
